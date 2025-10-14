@@ -8,6 +8,12 @@ body{
 background-color: #0f0f0f;
 }
 @media (max-width:600px){
+  body {
+    font-family: cursive;
+    font-weight:400;
+  }
+}
+@media (max-width:600px){
 .total{
 .total{
 display: flex;
@@ -133,4 +139,5 @@ font-weight: bold;
 }
 .n_img img, .n_img_2 img{
 border-radius: 20px;
+
 }
