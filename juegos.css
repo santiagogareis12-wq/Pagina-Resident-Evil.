@@ -230,16 +230,18 @@ background-color: rgba(139, 0, 0, 0.3);
 box-shadow: 0 0.2em 1.5em rgba(255, 0, 0, 0.685);
 }
 footer{
+padding: 0;
 background-color: #350404;
 border-radius: 20px;
 display: flex;
 flex-wrap: wrap;
-height: 80px;
+height: 50px;
 margin-top: 20px;
 box-shadow: 0 0.2em 1em rgba(255, 0, 0, 0.685);
-gap: 1em;
+gap: 0.8em;
 }
 }
+
 
 
 
