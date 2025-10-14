@@ -139,5 +139,16 @@ font-weight: bold;
 }
 .n_img img, .n_img_2 img{
 border-radius: 20px;
-
 }
+footer{
+background-color: #350404;
+border-radius: 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 80px;
+margin-top: 20px;
+box-shadow: 0 0.2em 1em rgba(255, 0, 0, 0.685);
+gap: 8em;
+}
+
